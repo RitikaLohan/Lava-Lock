@@ -15,6 +15,10 @@ This project is a perfect combination of:
 
 
 
+
+
+
+
 ###  How It Works
 
 1. **Upload an Image**
@@ -101,11 +105,15 @@ lavalock/
 
 ###  Features
 
-✅ Upload any image (lava lamp, random noise, abstract patterns)
-✅ Convert unpredictable pixel data into entropy
-✅ Generate strong, 16-character password using SHA-256
-✅ Secure web-based interface with Flask
-✅ Easily extendable for longer passwords
+**(1)** Upload any image (lava lamp, random noise, abstract patterns)
+ 
+**(2)**  Convert unpredictable pixel data into entropy
+ 
+**(3)** Generate strong, 16-character password using SHA-256
+
+**(4)** Secure web-based interface with Flask
+ 
+ **(5)** Easily extendable for longer passwords
 
 
 
