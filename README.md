@@ -13,7 +13,9 @@ This project is a perfect combination of:
 
 
 
-### ⚙️ How It Works
+
+
+###  How It Works
 
 1. **Upload an Image**
 
@@ -35,6 +37,7 @@ This project is a perfect combination of:
 
    * The password is returned and displayed on the web page.
    * The user can now copy and use it safely.
+
 
 
 
@@ -63,6 +66,7 @@ lavalock/
 * **string + secrets** – Random password generation utilities
 * **Flask** – Web framework for handling uploads and rendering results
 * **HTML (Jinja2 Templates)** – Frontend form and password display
+
 
 
 
